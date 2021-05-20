@@ -1,0 +1,5 @@
+/Users/valeriykurilets/Projects/u2/u2/bin/Debug/u2.exe
+/Users/valeriykurilets/Projects/u2/u2/bin/Debug/u2.pdb
+/Users/valeriykurilets/Projects/u2/u2/obj/Debug/u2.csproj.CoreCompileInputs.cache
+/Users/valeriykurilets/Projects/u2/u2/obj/Debug/u2.exe
+/Users/valeriykurilets/Projects/u2/u2/obj/Debug/u2.pdb
